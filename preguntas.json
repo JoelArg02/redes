@@ -19,18 +19,18 @@
       "opcion2_3": "Tethering",
       "opcion2_4": "Infraestructura"
     },
-    "respuestaCorrecta": "opcion2_2"
+    "respuestaCorrecta": "opcion2_4"
   },
   {
     "id": "pregunta3",
     "pregunta": "Si se tiene una potencia de antena de Access Point de 70mA y se genera una amplificación de 7dB, cuál es la potencia resultante en mA?",
     "opciones": {
-      "opcion3_1": "490mA",
+      "opcion3_1": "350mA",
       "opcion3_2": "140mA",
       "opcion3_3": "4900mA",
       "opcion3_4": "1400mA"
     },
-    "respuestaCorrecta": "opcion3_4"
+    "respuestaCorrecta": "opcion3_1"
   },
   {
     "id": "pregunta4",
@@ -51,7 +51,7 @@
       "opcion5_4": "Requiere de más seguridad que las redes cableadas",
       "opcion5_5": "Suelen haber lugares de baja conectividad"
     },
-    "respuestaCorrecta": "opcion5_1"
+    "respuestaCorrecta": "opcion5_2"
   },
   {
     "id": "pregunta6",
@@ -61,6 +61,114 @@
       "opcion6_2": "Yagi",
       "opcion6_3": "MIMO",
       "opcion6_4": "Direccional"
-    }
+    },
+    "respuestaCorrecta": "opcion6_3"
+  },
+  {
+    "id": "pregunta7",
+    "pregunta": "Escriba la frecuencia de operación en GHz del estándar 802.11g (solo escriba el número, no las unidades)",
+    "opciones": {
+      "opcion7_1": "2.4GHz",
+      "opcion7_2": "2.5GHz"
+    },
+    "respuestaCorrecta": "opcion7_1"
+  },
+  {
+    "id": "pregunta8",
+    "pregunta": "Escriba las siglas de la topología en el modo de infraestrcutura que tiene más de un AP y cuenta con un sistema de distribución",
+    "opciones": {
+      "opcion8_1": "ESS",
+      "opcion8_2": "WLAN",
+      "opcion8_3": "WAN",
+      "opcion8_4": "WISP"
+    },
+    "respuestaCorrecta": "opcion8_1"
+  },
+  {
+    "id": "pregunta9",
+    "pregunta": "La amplitud de una onda es:",
+    "opciones": {
+      "opcion9_1": "Sentido de la onda",
+      "opcion9_2": "Cantidad de veces que se repite un ciclo en un segundo",
+      "opcion9_3": "El punto más alto",
+      "opcion9_4": "Distancia entre dos puntos de la onda"
+    },
+    "respuestaCorrecta": "opcion9_3"
+  },
+  {
+    "id": "pregunta10",
+    "pregunta": "Al diseñar una red inlamabrica se debe tomar en cuenta el area de cobertura, a la seguridad y........",
+    "opciones": {
+      "opcion10_1": "Ando de banda",
+      "opcion10_2": "Ciberseguridad",
+      "opcion10_3": "Interferencia",
+      "opcion10_4": "Generacion Celular"
+    },
+    "respuestaCorrecta": "opcion10_3"
+  },
+  {
+    "id": "pregunta11",
+    "pregunta": "Cual es el nombre de tipo de trama de administración en WLAN, que comparte el SSID en el area de cobertura:",
+    "opciones": {
+      "opcion11_1": "ACK",
+      "opcion11_2": "RTS",
+      "opcion11_3": "CTS",
+      "opcion11_4": "Autenticacion",
+      "opcion11_5": "Beacon"
+    },
+    "respuestaCorrecta": "opcion11_5"
+  },
+  {
+    "id": "pregunta12",
+    "pregunta": "El ancho de banda de un canal es 2.4GHz es de 5mhz",
+    "opciones": {
+      "opcion12_1": "Verdadero",
+      "opcion12_2": "Falso"
+    },
+    "respuestaCorrecta": "opcion12_2"
+  },
+  {
+    "id": "pregunta13",
+    "pregunta": "¿Cual es la tecnica de mejoramiento AB usando en Espectro Ensanchado que utilizan las redes wifi modernas y utlimas generaciones de celulares:",
+    "opciones": {
+      "opcion13_1": "AM",
+      "opcion13_2": "FHSS",
+      "opcion13_3": "FM",
+      "opcion13_4": "OFDM",
+      "opcion13_5": "DSSS"
+    },
+    "respuestaCorrecta": "opcion13_4"
+  },
+  {
+    "id": "pregunta14",
+    "pregunta": "Las redes WIFI operan en UHF al funcionar en las frecuencias 2.4GHz",
+    "opciones": {
+      "opcion14_1": "Verdadero",
+      "opcion14_2": "Falso"
+    },
+    "respuestaCorrecta": "opcion14_1"
+  },
+  {
+    "id": "pregunta15",
+    "pregunta": "¿Cual es el estandar de Bluetooth?",
+    "opciones": {
+      "opcion15_1": "IEEE 802.15",
+      "opcion15_2": "IEEE 802.11",
+      "opcion15_3": "IEEE 802.16",
+      "opcion15_4": "IEEE 802.1Q",
+      "opcion15_5": "IEEE 802.3"
+    },
+    "respuestaCorrecta": "opcion15_1"
+  },
+  {
+    "id": "pregunta16",
+    "pregunta": "Modular una onda es interpretar la informacion basada en los cambios en la señal portadora",
+    "opciones": {
+      "opcion16_1": "Verdadero",
+      "opcion16_2": "Falso"
+    },
+    "respuestaCorrecta": "opcion16_1"
   }
+
+
 ]
