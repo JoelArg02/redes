@@ -20,5 +20,47 @@
       "opcion2_4": "Infraestructura"
     },
     "respuestaCorrecta": "opcion2_2"
+  },
+  {
+    "id": "pregunta3",
+    "pregunta": "Si se tiene una potencia de antena de Access Point de 70mA y se genera una amplificación de 7dB, cuál es la potencia resultante en mA?",
+    "opciones": {
+      "opcion3_1": "490mA",
+      "opcion3_2": "140mA",
+      "opcion3_3": "4900mA",
+      "opcion3_4": "1400mA"
+    },
+    "respuestaCorrecta": "opcion3_4"
+  },
+  {
+    "id": "pregunta4",
+    "pregunta": "Un canal típicamente usado y recomendado en 2.4GHz es el canal 6:",
+    "opciones": {
+      "opcion4_1": "Verdadero",
+      "opcion4_2": "Falso"
+    },
+    "respuestaCorrecta": "opcion4_1"
+  },
+  {
+    "id": "pregunta5",
+    "pregunta": "¿Cuál es la razón principal para implementar redes inalámbricas?",
+    "opciones": {
+      "opcion5_1": "Es más costosa para implementar que las redes cableadas",
+      "opcion5_2": "Mejora la movilidad y por ende la productividad",
+      "opcion5_3": "No es tan rápida como las redes cableadas",
+      "opcion5_4": "Requiere de más seguridad que las redes cableadas",
+      "opcion5_5": "Suelen haber lugares de baja conectividad"
+    },
+    "respuestaCorrecta": "opcion5_1"
+  },
+  {
+    "id": "pregunta6",
+    "pregunta": "Las antenas de AP son de tipo:",
+    "opciones": {
+      "opcion6_1": "Omnidireccional",
+      "opcion6_2": "Yagi",
+      "opcion6_3": "MIMO",
+      "opcion6_4": "Direccional"
+    }
   }
 ]
